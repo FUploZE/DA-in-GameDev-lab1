@@ -1,4 +1,4 @@
-# АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
+# Установка программного обеспечения [in GameDev]
 Отчет по лабораторной работе #1 выполнил(а):
 - Аржавицин Захар Денисович
 - НМТ-233929
@@ -18,10 +18,6 @@
 - к.э.н., доцент Панов М.А.
 - ст. преп., Фадеев В.О.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ---
 
 ## Цель работы
@@ -35,3 +31,36 @@
 Код реализации:
 ```python
 print("Hello, World!")
+
+---
+
+## Задание 2
+### Программа "Hello World" на C# в Unity
+
+Код реализации:
+
+using UnityEngine;
+
+public class HelloWorld : MonoBehaviour
+{
+    void Start()
+    {
+        Debug.Log("Hello, World!");
+    }
+}
+
+---
+
+## Задание 3
+### Оформление отчета на GitHub
+
+Ссылка на репозиторий: https://github.com/FUploZE/DA-in-GameDev-lab1
+
+---
+
+## Выводы
+В ходе выполнения лабораторной работы:
+
+- Была написана программа "Hello World" на Python в Jupyter Notebook.
+- Была написана программа "Hello World" на C# в Unity.
+- Отчет был оформлен в виде документации на GitHub с использованием Markdown.
