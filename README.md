@@ -31,6 +31,7 @@
 Код реализации:
 ```python
 print("Hello, World!")
+```
 
 ---
 
@@ -38,6 +39,7 @@ print("Hello, World!")
 ### Программа "Hello World" на C# в Unity
 
 Код реализации:
+```csharp
 
 using UnityEngine;
 
@@ -48,6 +50,7 @@ public class HelloWorld : MonoBehaviour
         Debug.Log("Hello, World!");
     }
 }
+```
 
 ---
 
